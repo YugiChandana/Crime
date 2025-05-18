@@ -8,7 +8,6 @@ It utilizes a **Random Forest Classifier** to analyze historical crime data.
 1. **Clone the repository**
    git clone https://github.com/YugiChandana/Crime.git
    cd Crime
-   Create a virtual environment
 
 2. 🚀 Usage
    Train the Model
@@ -18,7 +17,7 @@ It utilizes a **Random Forest Classifier** to analyze historical crime data.
 3. Run the App (use Flask):
    python app.py
 
-4. 📊 Dataset Description
+4. 📊 Dataset Description:
    The dataset used is CRIME_DETAILS_RANDOMIZED.csv. It contains information on crimes committed across different states and years in India.
 
       Key columns:
@@ -33,7 +32,7 @@ It utilizes a **Random Forest Classifier** to analyze historical crime data.
 
    The data has been randomized for confidentiality and testing purposes.
 
-✅ Results
+✅ Results:
 The Random Forest model achieved high accuracy on test data.
 
 It was able to classify whether an arrest would occur based on state, year, and crime type.
