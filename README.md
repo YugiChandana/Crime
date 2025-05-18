@@ -41,5 +41,10 @@ The model showed robustness and consistency across different data splits.
 
 ![image](https://github.com/user-attachments/assets/0261bbea-20ab-49a9-99a0-0ca5a3e8ce98)
 
+🙋‍♀️ Author
+Yugi Chandana
+B.Tech CSE Student
+https://github.com/YugiChandana
+
 
 
