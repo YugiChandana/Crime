@@ -15,7 +15,7 @@ It utilizes a **Random Forest Classifier** to analyze historical crime data.
    To train the Random Forest model using the dataset:
    python train.py
 
-3. Run the App (used Flask):
+3. Run the App (use Flask):
    python app.py
 
 4. 📊 Dataset Description
