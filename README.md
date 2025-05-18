@@ -22,6 +22,7 @@ It utilizes a **Random Forest Classifier** to analyze historical crime data.
    The dataset used is CRIME_DETAILS_RANDOMIZED.csv. It contains information on crimes committed across different states and years in India.
 
       Key columns:
+   
         STATE/UT: Name of the state or union territory.
 
         YEAR: Year of the reported crime.
